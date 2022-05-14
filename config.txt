@@ -1,0 +1,2 @@
+ntp server 99.99.99.99
+ntp server 88.88.88.88
